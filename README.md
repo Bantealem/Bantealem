@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **https://bantealem.github.io/my-portfolio/**
+- 📫 How to reach me througn email **bantem2021@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
