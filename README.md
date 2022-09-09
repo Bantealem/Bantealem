@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/be/b5/41/beb541eeb1ee06ba00ef55d5baa60773.gif)
 <h1 align="center">Hi 👋, I'm Bantealem Geto</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate-frontend developer-from Ethiopia</h3>
 <img align = "right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112245218adf9485eab9c1b3284be7ee32f05571ce&rid=giphy.gif&ct=g" alt="coding image" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bantealem&label=Profile%20views&color=0e75b6&style=flat" alt="bantealem" /> </p>
