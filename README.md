@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me **https://bantealem.github.io/Portfolio-setup-and-mobile-version-skeleton/**
+- 📫 How to reach me **https://bantealem.github.io/my-portfolio/**
 
 - ⚡ Fun fact **I am funny**
 
