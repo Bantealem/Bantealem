@@ -12,5 +12,5 @@
 - 🤔 I’m looking for help with ...
 -->
 
-[![Bantealem Geto's github stats](https://github-readme-stats.vercel.app/api?username=acushlakoncept&show_icons=true&theme=radical)](https://github.com/Bantealem/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acushlakoncept&show_icons=true&theme=radical&layout=compact)](https://github.com/acushlakoncept/github-readme-stats)
+[![Bantealem Geto's github stats](https://github-readme-stats.vercel.app/api?username=acushlakoncept&show_icons=true&theme=radical)](https://github.com/Bantealem/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acushlakoncept&show_icons=true&theme=radical&layout=compact)](https://github.com/Bantealem/github-readme-stats)
 
