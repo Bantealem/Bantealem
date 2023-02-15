@@ -4,7 +4,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/bantealemg), [Linkedin](https://www.linkedin.com/in/bantealem/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: When the problem is complexity, the cure might just be simplicity
+- ⚡ Fun fact: User interface is the process of shifiting from chaotic complexity to elegant simplicity.
 
 <!--
 **/Bantealem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
